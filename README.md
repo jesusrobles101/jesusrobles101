@@ -16,8 +16,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="ColtonHicks | Twitter/X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter/X]
-[<img align="left" alt="ColtonHicks | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="9_Jrobles | Twitter/X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter/X]
+[<img align="left" alt="jesusrobles101 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter/X]: https://x.com/9_Jrobles
 [linkedin]: https://www.linkedin.com/in/jesus-robles101/

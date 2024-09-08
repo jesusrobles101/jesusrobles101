@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
   - [Creating a Live SOC / Honeynet in AZURE Home Lab](https://github.com/jesusrobles101/Cloud-SOC)
-  - [Creating a Honeypot in Azure](https://github.com/jesusrobles101/Creating-a-Honeypot-in-Azure)
+  - [Creating a Honeypot in AZURE](https://github.com/jesusrobles101/Creating-a-Honeypot-in-Azure)
 
 <h2>📺 Certifications</h2>
 

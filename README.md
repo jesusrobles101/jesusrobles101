@@ -6,13 +6,13 @@
 
 <h2>📺 Certifications</h2>
 
-- [CompTIA Security+](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [CompTIA Security+](https://imgur.com/a/JS5wVbk)
 
-- [CompTIA Network+](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [CompTIA Network+](https://imgur.com/a/AnuKSHp)
   
-- [CompTIA A+](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [CompTIA A+](https://imgur.com/a/HORbNhp)
   
-- [ITIL](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [ITIL](https://imgur.com/a/aJRHjge)
 
 <h2> 🤳 Connect with me:</h2>
 

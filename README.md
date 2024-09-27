@@ -4,6 +4,7 @@
 
   - [Creating a Live SOC / Honeynet in AZURE Home Lab](https://github.com/jesusrobles101/Cloud-SOC)
   - [Creating a Honeypot in AZURE](https://github.com/jesusrobles101/Creating-a-Honeypot-in-Azure)
+  - [Hands On Network Configuration Project in Juniper](https://github.com/jesusrobles101/Hands-On-Network-Configuration-Project-in-Juniper)
 
 <h2>📺 Certifications</h2>
 
